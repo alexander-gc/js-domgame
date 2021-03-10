@@ -1,2 +1,2 @@
 # js-domgame
-Juego que manipula el DOM - Js Udemy.
+Juego que manipula el DOM - Js
